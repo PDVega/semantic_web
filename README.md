@@ -14,3 +14,10 @@
     |  |--minilibme_logo.jpg
     |
     |--index.html
+
+
+## Running this Web
+
+    npm install live-server
+    
+    live-server
